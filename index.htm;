@@ -1,0 +1,9 @@
+<input type="text" id="codeToCopy" value="Hello World">
+<button onclick="copyText()">Copy</button>
+
+<script>
+function copyText() {
+  var text = document.getElementById("codeToConfig").value;
+  navigator.clipboard.writeText(text);
+}
+</script>
