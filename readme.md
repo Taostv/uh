@@ -4,11 +4,7 @@ A brief, one-sentence description of what this project does and who it is for.
 
 ## 🛠️ Features
 
-- **Feature 1** - Short description of usefulness.
-- **Feature 2** - Short description of usefulness.
-- **Feature 3** - Short description of usefulness.
-
-## 📦 Installation
+stuff
 
 Install the project dependencies with your package manager:
 
